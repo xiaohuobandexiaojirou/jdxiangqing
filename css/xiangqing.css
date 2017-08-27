@@ -1,0 +1,70 @@
+.detail{width:1210px;margin: 0 auto;}
+.detail .up{height:45px;}
+.detail .up ul li{float:left;height:45px;line-height: 45px;font-size:12px ;color:#717171;}
+.detail .up ul li a{padding:0 6px}
+.detail .up ul .first{font-size: 18px;color:#636361;}
+.detail .up ul .first span{font-size:16px}
+.detail .middel{height:488px;border-bottom: 1px solid #ccc;}
+.detail .middel_left{float:left;text-align:center;width:380px;}
+.detail .middel_left .magnifying{position:relative;}
+.detail .middel_left .magnifying .magin_box1{position:relative;margin:0 20px 4px;width:343px;height:360px;}
+.detail .middel_left .magnifying .magin_box1 img{width:100%;height:100%;}
+.detail .middel_left .magnifying .magin_box2{width:300px;height:300px;position:absolute;left:380px;top:0;overflow: hidden;border:1px solid #ccc;display: none;}
+.detail .middel_left .magnifying .magin_box2 img{position: absolute;width:1029px;height:1080px;}
+.detail .middel_left .magnifying .magin_box1 span{width:100px;height:100px;background:greenyellow;opacity: .3;position: absolute;left:0;top:0;cursor: move;display: none;}
+.detail .middel_left .magni_list{height:54px;}
+.detail .middel_left .magni_list .qian,.hou{cursor: pointer;float:left;width:13px;height:54px;}
+.detail .middel_left .magni_list .qian,.hou img{margin-top:15px;}
+.detail .middel_left .magni_list .minpic{width:50px;height:50px;float:left;border:2px solid transparent;margin:0 7px;cursor: pointer;}
+.detail .middel_left .magni_list .minpic img{width:100%;height:100%;}
+.detail .middel_left .magni_list .first{border:2px solid red;}
+.detail .middel_left .magni_bottom{height:38px;line-height:38px;}
+.detail .middel_left .magni_bottom .magni_bottom_left{float:left;}
+.detail .middel_left .magni_bottom .magni_bottom_right{float:right}
+.detail .middel_left .magni_bottom .magni_bottom_right .share{height:38px;line-height:38px;float:left;width:50px;background:url(../images/images/rightpx_03.jpg) no-repeat left center;padding-left: 14px;}
+.detail .middel_left .magni_bottom .magni_bottom_right .care{float:left;width:80px;height:38px;line-height:38px;background:url(../images/images/rightpx_05.jpg) no-repeat left center;padding-left: 16px;}
+.detail .middel_mid{float:left;width:610px}
+.detail .middel_mid h3{line-height: 25px;font-weight: bold;font-size: 18px;color: #000000;}
+.detail .middel_mid .title{height:21px;line-height: 21px;font-size:14px;margin-bottom: 9px;color:#a75255}
+.detail .middel_mid .text1 .em{font-weight:bold;font-style:normal;font-size: 16px;color:#f23d5e;}
+.detail .middel_mid .text1{height:50px;background:#f7f7f7;font-size:14px ;line-height: 50px;}
+.detail .middel_mid .text1 p{width:88px;border-left:1px solid #939393;font-size:12px;float:right;line-height: 18px;margin-top:8px;color:#939393}
+.detail .middel_mid .text1 p span{color:#30699e}
+.detail .middel_mid .selectaddr{height:25px;line-height:25px;font-size: 16px;margin-top: 16px;font-size: 12px;}
+.detail .middel_mid .selectaddr .selectaddr_text{float:right;font-size: 14px;margin-right:210px}
+.detail .middel_mid .selectaddr .selectaddr_text a{font-size: 12px;}
+.detail .middel_mid .selectaddr .select{border-color: #ccc;height:25px;}
+.detail .middel_mid .service{font-size:12px;padding: 10px 0 8px;line-height:25px;border-bottom: 1px dashed #dbdbdb;}
+
+.detail .middel_mid .selects{margin:10px 0 35px;font-size: 12px;}
+.detail .middel_mid .selects .option{height:24px;border:2px solid #d1ccd0;display: inline-block;text-align: center;padding:0 5px;line-height: 24px;margin-right:8px;margin-bottom: 4px;cursor: pointer;}
+.detail .middel_mid .selects .option:hover{border:2px solid #a75255}
+.detail .middel_mid .selects .ac{border-color: #a75255;}
+.detail .middel_mid .number{height: 34px;line-height:34px;width: 50px;border: 1px solid #cdcdcd;margin-left: 20px;background-color: #fff;float: left;position: relative;}		   			  
+.detail .middel_mid .div{height: 17px;line-height: 17px;}
+.detail .middel_mid .minbox{border-left: 1px solid #cdcdcd;float: right;width: 15px;text-align: center;cursor: default;background:#edf1f0}
+.detail .middel_mid #jian{border-top: 1px solid #cdcdcd;height:16px;border-bottom: 1px solid #cdcdcd;}
+.detail .middel_mid #text_text{border: none;width: 33px;height: 34px;position: absolute;left: 0;top: 0;text-align: center;}
+.detail .middel_mid .mark{cursor: pointer;}
+.detail .middel_mid .button{box-shadow:none;background:#e53b3c url(../images/images/rightic_03.jpg) no-repeat 9px center;padding-left:35px;height: 36px;width: 135px;margin-left: 20px;float: left;color: white;font-size: 16px;cursor: pointer;font-weight: bold;}
+.detail .middel_mid .ps{float:left;font-size: 12px;color:#696969}
+.detail .middel_mid .button-bot{width:620px;float:left;margin-top: 23px;height:16px;line-height: 16px;font-size: 14px;}
+
+.detail .middel_right{width:220px;float:right}
+.detail .middel_right .pics{width:200px;float:left;}
+.detail .middel_right .pics img{border-top: 1px solid #ccc;}
+.detail .middel_right .pic_service{}
+.detail .middel_right .pic_service img{float:left;border:1px solid #cbcbcb;margin:0 5px 12px 2px}
+.detail .middel_right .sevrice_hold{width:200px;float:left;}
+.detail .middel_right .sevrice_hold h5{height:38px;line-height: 38px;font-size: 20px;}
+.detail .middel_right .sevrice_hold .pics{}
+.detail .middel_right .sevrice_hold .pics .pictrues{float:left;margin-right:40px;margin-left: 10px;line-height: 16px;font-size: 12px;}
+.detail .middel_right .sevrice_hold .pics .pictrues p{padding-left:5px;float:right}
+.detail .middel_right .sevrice_hold .pics .last{margin-right: 0;}
+.detail .bottom{height:264px;border:1px solid #ccc;margin-top:10px;border-top:2px solid #9b9b93;margin-bottom: 30px;}
+.detail .bottom .nav{height:30px;line-height:29px;border-bottom: 1px solid #ccc;}
+.detail .bottom .nav li{cursor:pointer;padding:0 13px;background:#f7f7f7;float:left;font-size: 15px;border:1px solid #dcdcdc;border-top:2px solid transparent;border-bottom: none;}
+.detail .bottom .nav .ac{background:#fff;color:#ff6243;border-top:2px solid #ff6243;position:relative;top:-5px;}
+.detail .bottom .pic_text .pic_text_list{float:left;text-align: center;margin:26px 36px 9px;}
+.detail .bottom .pic_text .pic_text_list p{line-height: 18px;font-size: 12px;}
+.detail .bottom .pic_text .pic_text_list span{color:#e6323d;font-size: 12px;}
